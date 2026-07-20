@@ -1,5 +1,4 @@
-# AI Research Paper Copilot  [Web](https://ai-research-paper-copilot.onrender.com)
-
+# AI Research Paper Copilot  
 A research assistant for finding arXiv papers, downloading PDFs, extracting text,
 indexing them for retrieval, and asking questions or generating summaries over
 your personal library.
@@ -35,6 +34,9 @@ work without any API key, but "Ask your library" and "Summarize" require `GROQ_A
 
 ## Roadmap
 
-3. Paper comparison, methodology extraction, and citation generation (APA/MLA/IEEE/BibTeX).
-4. Literature review generation, research gap finder, knowledge graph, trend analysis, and recommendations.
-5. Per-document paper chat, exports (Markdown/PDF/Word/PPTX), and polish.
+1. Paper comparison, methodology extraction, and citation generation (APA/MLA/IEEE/BibTeX).
+2. Literature review generation, research gap finder, knowledge graph, trend analysis, and recommendations.
+3. Per-document paper chat, exports (Markdown/PDF/Word/PPTX), and polish.
+
+## [Web](https://ai-research-paper-copilot.onrender.com)
+
