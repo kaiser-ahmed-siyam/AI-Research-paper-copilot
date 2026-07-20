@@ -228,7 +228,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Kaiser Ahmed**
+[**Kaiser Ahmed**](https://github.com/kaiser-ahmed-siyam)
 
 **Aspiring ML & AI Engineer | AI Researcher**
 
